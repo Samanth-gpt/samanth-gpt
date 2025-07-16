@@ -1,7 +1,7 @@
 # Hi, I'm Samanth 👋
 
 Founder & Builder | Front-End Developer | Data Researcher  
-_Currently building [NestSure](#) — an AI-powered platform simplifying insurance claims in India._
+_Currently building [NestSure](https://rebrand.ly/sncheck) — an AI-powered platform simplifying insurance claims in India._
 
 ---
 
@@ -19,10 +19,10 @@ _Currently building [NestSure](#) — an AI-powered platform simplifying insuran
 HTML • CSS • JavaScript • React • Tailwind CSS • Next.js
 
 **Data & Backend:**  
-Python • Pandas • Data Visualization • APIs • Firebase
+Python • Data Visualization • APIs • Firebase • Superbase 
 
-**Other:**  
-Git & GitHub • Figma • SEO • UI/UX Design • Startup Ops
+**Other ( Beginner ):**  
+Git & GitHub • Figma • SEO • UI/UX Design
 
 ---
 
@@ -42,7 +42,6 @@ Git & GitHub • Figma • SEO • UI/UX Design • Startup Ops
 - [LinkedIn](https://linkedin.com/in/samanthshetty)
 - Email: [samanthshetty24@outlook.com](mailto:samanthshetty24@outlook.com)
 - WhatsApp: [+91 7892991594](https://wa.me/917892991594)
-- Portfolio: _Coming Soon via [Emergent.sh](#)_
 
 ---
 
@@ -54,4 +53,3 @@ Feel free to reach out if you’re working on insurance, fintech, or just love s
 ---
 
 > _“The best products make the complex feel effortless.”_
-
