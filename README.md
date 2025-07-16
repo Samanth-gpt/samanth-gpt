@@ -19,7 +19,7 @@ _Currently building [NestSure](https://rebrand.ly/sncheck) — an AI-powered pla
 HTML • CSS • JavaScript • React • Tailwind CSS • Next.js
 
 **Data & Backend:**  
-Python • RUST • Data Visualization • APIs • Firebase • Superbase 
+Python • RUST • PHP • Data Visualization • APIs • Firebase • Superbase 
 
 **Other ( Beginner ):**  
 Git & GitHub • Figma • SEO • UI/UX Design
