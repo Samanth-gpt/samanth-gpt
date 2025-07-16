@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Samanth 👋
 
-<!--
-**Samanth-gpt/samanth-gpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Builder | Front-End Developer | Data Researcher  
+_Currently building [NestSure](#) — an AI-powered platform simplifying insurance claims in India._
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- **Gap Year Explorer:** Taking time off to build tools that solve real-world problems in insurance & finance.
+- **System Simplifier:** Obsessed with making complex, legacy processes transparent and user-friendly.
+- **On a Mission:** Transforming insurance into a product people actually trust and understand.
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Front-End:**  
+HTML • CSS • JavaScript • React • Tailwind CSS • Next.js
+
+**Data & Backend:**  
+Python • Pandas • Data Visualization • APIs • Firebase
+
+**Other:**  
+Git & GitHub • Figma • SEO • UI/UX Design • Startup Ops
+
+---
+
+## 🚀 Projects & Achievements
+
+- **NestSure**  
+  _AI-powered claims assistant for India’s insurance users, focused on transparency and faster settlements._
+
+- **Nester Labs**  
+  _A growing hub for projects tackling legacy challenges in insurance and finance._
+  *(More projects coming soon to this GitHub and Nester Labs!)*
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/samanthshetty)
+- Email: [samanthshetty24@outlook.com](mailto:samanthshetty24@outlook.com)
+- WhatsApp: [+91 7892991594](https://wa.me/917892991594)
+- Portfolio: _Coming Soon via [Emergent.sh](#)_
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always open to connecting with fellow founders, hackers, and designers who enjoy fixing boring but important problems.  
+Feel free to reach out if you’re working on insurance, fintech, or just love simplifying complex systems!
+
+---
+
+> _“The best products make the complex feel effortless.”_
+
